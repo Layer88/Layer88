@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Layer88
 - 👀 I’m interested in American Football and Programming 
-- 🌱 I’m currently learning the Basics off Development and thats why im learn C#,Python,SQL,Websitestuff(HTML,CSS,JS,TS)
+- 🌱 I’m currently learning the Basics of Development C#,Python,SQL,Websitestuff(HTML,CSS,JS,TS)
 - 📫 How to reach me? Dunno
 - 😄 Pronouns: Transparent : Who/Where
 - ⚡ Fun fact: Did you know that the inventor of the Pringles can, Fred Baur, was so proud of his invention that he had his ashes buried in one?
